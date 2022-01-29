@@ -3,7 +3,8 @@ body {
 }
 .profile-name {
   color: red;
-  font-size: 25px;
+  font-size: 50px;
+  margin: 5px 5px;
   font-weight: 600;
 }
 .half-border {
